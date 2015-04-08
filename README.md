@@ -1,7 +1,7 @@
 reveal.js-together-plugin
 =========================
 
-A simple plugin that brings [reveal.js](https://github.com/hakimel/reveal.js) together with and [together.js](https://github.com/mozilla/togetherjs).
+A simple plugin that brings together [reveal.js](https://github.com/hakimel/reveal.js) and [together.js](https://github.com/mozilla/togetherjs).
 
 Usage
 -----
