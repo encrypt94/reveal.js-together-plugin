@@ -18,9 +18,7 @@ TogetherJS.on("ready", function(){
     });
 
     TogetherJS.hub.on("slidechanged", function(event){
-	console.log("event received");
 	if(event.peer.isCreator) {
-	    console.log(event);
 	    Reveal.slide(event.indexh, event.indexv);
 	}
     });
