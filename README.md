@@ -25,4 +25,4 @@ Open your presentation, press Ctrl+Alt+t to start TogetherJS and share the link 
 TODO
 ----
 
-* [ ] Sync all the things (stuff like fragmets is still not in sync)
+* [x] Sync all the things (stuff like fragmets is still not in sync)
